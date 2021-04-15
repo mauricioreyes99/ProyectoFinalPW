@@ -455,6 +455,8 @@ textarea.input {
 
 .header-logo .logo img {
   display: block;
+  width: 200px;
+  height: 80px;
 }
 
 /*----------------------------*\
@@ -786,12 +788,13 @@ textarea.input {
 ===========================================================*/
 
 #hot-deal.section {
-  padding: 60px 0px;
-  margin: 30px 0px;
-  background-color: #E4E7ED;
-  background-image: url('../img/hotdeal.png');
+  padding: 140px 0px;
+  margin: 100px 0px;
+  background-color: #f1e28a;
+  background-image: url('../img/bannerFSnormal2.png');
   background-position: center;
   background-repeat: no-repeat;
+  color: whitesmoke;
 }
 
 .hot-deal {
